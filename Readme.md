@@ -1,6 +1,6 @@
 # dxTextArea - How to assign attributes via JavaScript
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4792)**
+**[[Run Online]](https://codecentral.devexpress.com/e4792/)**
 <!-- run online end -->
 
 
