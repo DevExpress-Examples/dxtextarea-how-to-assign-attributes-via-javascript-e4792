@@ -1,8 +1,3 @@
-# dxTextArea - How to assign attributes via JavaScript
+# This example is obsolete
 
-
-<p>This example illustrates how to assign the maxlength and HTML5 placeholder attributes to the dxTextArea widget. The <a href="http://www.w3schools.com/tags/tag_textarea.asp"><u>placeholder</u></a> attribute represents a short hint intended to give a user a tip with data entry when a control does not have a value. The maxlength attribute  specifies the maximum number of characters allowed in the text area.</p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
